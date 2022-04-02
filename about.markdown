@@ -47,7 +47,7 @@ permalink: /about/
 
 Одна из крупнейших цифровых компаний в России.
 
-### Разработчик
+#### Разработчик
 
 **Tech stack**: C#/PostgreSQL/Entity Framework/Azure DevOps/Azure service fabric/Apache Kafka
 
