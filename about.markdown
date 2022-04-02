@@ -49,9 +49,14 @@ permalink: /about/
 
 ### Разработчик
 
-**Tech stack**: C#
+**Tech stack**: C#/PostgreSQL/Entity Framework/Azure DevOps/Azure service fabric/Apache Kafka
 
-**Достижения**:
+* Разработка системы с использованием современных подходов (event-driven architecture) и стека (.NET 5).  
+* Интеграция с сервисами других команд через Rest, Soap  
+* Настройка CI/CD с использованием Azure DevOps  
+* Написание unit и интеграционных тестов  
+* Рефакторинг кода с помощью Resharper  
+* Написание документации  
 
 ### ООО "Влс"
 
