@@ -14,30 +14,30 @@ categories: other
 Ну что, поехали!
 
 ### Blogs
-- http://sergeyteplyakov.blogspot.com/
+- [sergeyteplyakov.blogspot.com](http://sergeyteplyakov.blogspot.com/)
 > Для многих русскоязычных разработчиков путь в .NET начался именно с этого блога.  
 > Автор блога - Сергей Тепляков разработчик, обладатель статуса Microsoft MVP на момент написания статьи работающий в Microsoft.  
 > Его материалы мотивировали множество людей изучать .NET.   
 > И пусть в данный момент блог не обновляется там можно найти множество полезных статей как по языку, так и по смежным темам.
-- https://andrewlock.net/
+- [andrewlock.net](https://andrewlock.net/)
 > Блог одного из разработчиков ASP.NET, автор книги ASP.NET Core in Action.  
 > Часто пишет интересные статьи, в основном связанные с ASP.NET (удивительно, да?).
-- https://www.meziantou.net/
+- [www.meziantou.net](https://www.meziantou.net/)
 > Блог дотнет разработчика, с опытом работы более 10 лет и обладателем статуса Microsoft MVP.  
 > Начал свое развитие еще в 2011 году, и за это время в нем появилось огромное количество статей,
 > и постоянно появляются новые.
-- https://devblogs.microsoft.com/dotnet/
+- [devblogs.microsoft.com/dotnet/](https://devblogs.microsoft.com/dotnet/)
 > Долго думал указывать этот сайт или нет. Но все же решил указать, возможно о нем слышали не все.  
 > Здесь разработчики Microsoft из различных команд и разработчики самого .NET рассказывают о новых фичах,
 > и своих приключениях с использованием .NET.  
 > Должен быть в закладках у каждого уважающего себя разработчка, использующего Microsoft стек.
 
 ### Chats
-- https://discord.gg/csharp
+- [discord.gg/csharp](https://discord.gg/csharp)
 > Неофициальный дискорд разработчиков на .NET стеке. Огромное количество каналов по различным темам,  
 > также в войс каналах нередко можно встретить интересных людей, которые стримят процесс разработки.
-- https://aka.ms/dotnet-discord
-> Официальный дискорд разработчиков на .NET стеке от Microsoft. Можно задать вопросы на различные темы.
+- [dotnet-discord](https://aka.ms/dotnet-discord)
+> Официальный дискорд для разработчиков на .NET стеке от Microsoft. Можно задать вопросы на различные темы.
 
 ### Twitter
 Заранее хочу предупредить что личности указанные здесь пишут не только технические детали .NET разработки.  
@@ -45,26 +45,26 @@ categories: other
 Но я смог найти что-то интересное для себя в их твиттер страничках.  
 
 
-- https://twitter.com/okyrylchuk
+- [okyrylchuk](https://twitter.com/okyrylchuk)
 > Энтузиаст, обладатель статуса Microsoft MVP, постоянно выкладывает хитрости, связанные с использованием .NET,  
-> рассказывает о новых фичах. Также ведет блог https://blog.okyrylchuk.dev/
-- https://twitter.com/dotnetosorg
+> рассказывает о новых фичах. Также ведет [блог](https://blog.okyrylchuk.dev/)
+- [dotnetosorg](https://twitter.com/dotnetosorg)
 > В данном твиттере часто дают ссылки на раличные интересные статьи и доклады по .NET технологиям.  
-> Также у них имеется несколько своих проектов по обучению, которые можно найти на официальном сайте https://dotnetos.org/
-- https://twitter.com/buhakmeh
+> Также у них имеется несколько своих проектов по обучению, которые можно найти на их [официальном сайте ](https://dotnetos.org/)
+- [buhakmeh](https://twitter.com/buhakmeh)
 > Разработчик с более чем 10-летним стажем, занимается в основном Web технологиями, пишет на .NET.  
-> Ведет блог https://khalidabuhakmeh.com/ где пишет в основном о ASP.NET, в твиттере часто пишет о хитростях использования Rider.
-- https://twitter.com/badamczewski01
+> Ведет [блог](https://khalidabuhakmeh.com/) где пишет в основном о ASP.NET, в твиттере часто пишет о хитростях использования Rider.
+- [badamczewski01](https://twitter.com/badamczewski01)
 > Разработчик с более чем 15 годами опыта. Занимается довольно низкоуровневой разработкой, в его твиттере можно найти много хитростей,  
 > для улучшения перфоманса ваших .NET приложений, и понимания работы систем на низком уровне.  
-> Также ведет youtube канал - https://www.youtube.com/c/leveluppp
-- https://twitter.com/SitnikAdam
+> Также ведет youtube канал [leveluppp](https://www.youtube.com/c/leveluppp)
+- [SitnikAdam](https://twitter.com/SitnikAdam)
 > Разработчик в .NET team, мейнтейнер BenchmarkDotNet.
-> Помимо твиттера ведет блог https://adamsitnik.com/
-- https://twitter.com/JamesNK
+> Помимо твиттера ведет [блог](https://adamsitnik.com/)
+- [JamesNK](https://twitter.com/JamesNK)
 > Автор Newtonsoft.Json, разработчик в ASP.NET team
-- https://twitter.com/MStrehovsky
+- [MStrehovsky](https://twitter.com/MStrehovsky)
 > Разработчик .NET runtime в Microsoft.
-- https://twitter.com/EgorBo
+- [EgorBo](https://twitter.com/EgorBo)
 > Разработчик .NET JIT Compiler в Microsoft.
 
