@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Обо мне
-permalink: /about/
+description: Обо мне
+draft: false
+showthedate: false
 ---
 
 Вадим Алексеев, на момент последнего обновления этого раздела было 26 лет.  
