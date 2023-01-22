@@ -1,6 +1,6 @@
 ---
 title: Интересные люди и блоги в .NET сообществе
-description:
+description: Интересные люди и блоги в .NET сообществе
 date: 2022-05-22 16:02:47 +0300
 showthedate: true
 draft: false
