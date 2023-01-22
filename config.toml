@@ -12,8 +12,8 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="toggle"
 	useCDN=true
-	mathjax = true
-	katex = true
+	mathjax = false
+	katex = false
 
 [[params.social]]
 name = "GitHub"
