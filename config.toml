@@ -44,3 +44,12 @@ weight = 2
 name = "About"
 url = "/about"
 weight = 3
+
+menu:
+  nav:
+    - name: About
+      url: about.md
+      weight: 1
+    - name: Posts
+      url: posts/
+      weight: 2
