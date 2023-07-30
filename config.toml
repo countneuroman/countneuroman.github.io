@@ -1,7 +1,7 @@
 baseURL = 'https://countneuroman.github.io/'
 languageCode = 'ru-RU'
 title = 'Блог Вадима Алексеева'
-theme='archie'
+theme='hugo-flex'
 googleAnalytics='G-39RJXVCB0M'
 publishDir = 'docs'
 # Code Highlight
