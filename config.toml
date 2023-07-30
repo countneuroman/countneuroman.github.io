@@ -24,9 +24,12 @@ name = "Linkedin"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/countneuroman/"
 
+[params]
+summaries = true
+
 [[menu.nav]]
 name = "About"
-url = "about.md"
+url = "about/"
 weight = 1
 
 [[menu.nav]]
