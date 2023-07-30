@@ -9,12 +9,6 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-[params]
-	mode="toggle"
-	useCDN=true
-	mathjax = false
-	katex = false
-
 [[params.social]]
 name = "GitHub"
 icon = "github"
@@ -30,26 +24,12 @@ name = "Linkedin"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/countneuroman/"
 
-[[menu.main]]
-name = "Home"
-url = "/"
+[[menu.nav]]
+name = "About"
+url = "about.md"
 weight = 1
 
-[[menu.main]]
-name = "All posts"
-url = "/posts"
+[[menu.nav]]
+name = "Posts"
+url = "posts/"
 weight = 2
-
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
-
-menu:
-  nav:
-    - name: About
-      url: about.md
-      weight: 1
-    - name: Posts
-      url: posts/
-      weight: 2
